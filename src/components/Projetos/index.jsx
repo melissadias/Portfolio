@@ -28,7 +28,3 @@ export const Projetos = () => {
     )
 }
 export default Projetos;
-
-//Projeto feito no 1º Ano, onde tinha que apresentar um produto que estava à venda.
-//Projeto onde tinha que fazer uma caluladora de Segundo Grau. No resultado aparecia a Equação do Segundo Grau, X e Y do Vértice e o Gráfico da Função.
-//Projeto onde tinha que fazer um site para mostrar lugares conhecidos em Washington.
